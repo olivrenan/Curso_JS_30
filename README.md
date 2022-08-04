@@ -1,3 +1,3 @@
-## JavaScript Exercices
+## Coding Exercices
 
-Javascript exercices and coding challenges from [JavaScript 30](https://javascript30.com).
+JavaScript, HTML and CSS exercices and coding challenges from [JavaScript 30](https://javascript30.com).
